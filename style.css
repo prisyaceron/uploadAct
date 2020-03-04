@@ -1,0 +1,10 @@
+.back{
+    background-color: wheat;
+    border-radius: 15px;
+  
+}
+body{
+    background-image: url(./img/photo2.jpg);
+    background-size: cover;
+    opacity: .70;
+}
